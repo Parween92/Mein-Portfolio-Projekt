@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Komponente_18_4" data-name="Komponente 18 – 4" width="43" height="22.91" viewBox="0 0 43 22.91">
+  <rect id="Rechteck_44" data-name="Rechteck 44" width="42.984" height="22.91" fill="#003888"></rect>
+  <rect id="Rechteck_45" data-name="Rechteck 45" width="42.999" height="14.309" transform="translate(0 4.386)" fill="#fff"></rect>
+  <path id="Pfad_159" data-name="Pfad 159" d="M34.328,9.763l-1.7,3.033H29.138l1.743,3.033-1.743,3.093H32.6l1.743,3.012,1.723-3.012h3.466l-1.7-3.073,1.684-3.012H36.07Z" transform="translate(-12.827 -4.273)" fill="#003989"></path>
+  <path id="Pfad_160" data-name="Pfad 160" d="M37.934,13.134l-.624,1.113h1.249l-.624-1.113-.624,1.113H38.56Z" transform="translate(-16.404 -5.699)" fill="#fff"></path>
+  <path id="Pfad_161" data-name="Pfad 161" d="M43.785,16.8l-1.274.008L43.13,17.9l.655-1.1-1.274.008L43.13,17.9Z" transform="translate(-18.69 -7.291)" fill="#fff"></path>
+  <path id="Pfad_162" data-name="Pfad 162" d="M32.065,16.829l1.274.008-.619,1.086-.655-1.1,1.274.008-.619,1.086Z" transform="translate(-14.098 -7.302)" fill="#fff"></path>
+  <path id="Pfad_163" data-name="Pfad 163" d="M37.934,26.933,37.31,25.82h1.249l-.624,1.113-.624-1.113H38.56Z" transform="translate(-16.404 -11.205)" fill="#fff"></path>
+  <path id="Pfad_164" data-name="Pfad 164" d="M43.785,23.277l-1.274-.008.619-1.087.655,1.1-1.274-.008.619-1.087Z" transform="translate(-18.69 -9.626)" fill="#fff"></path>
+  <path id="Pfad_165" data-name="Pfad 165" d="M32.065,23.252l1.274-.008-.619-1.086-.655,1.1,1.274-.008-.619-1.086Z" transform="translate(-14.098 -9.615)" fill="#fff"></path>
+  <path id="Pfad_166" data-name="Pfad 166" d="M35.37,16.849h2.386l1.161,2.062-1.161,2.021H35.394l-1.2-2Z" transform="translate(-15.039 -7.302)" fill="#fff"></path>
+</svg>
